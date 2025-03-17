@@ -1,2 +1,2 @@
 # spacextracker
-Simple demo project testing purposes
+Simple demo project for basic testing purposes
